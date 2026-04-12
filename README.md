@@ -53,7 +53,6 @@ Run all cells step-by-step
 View predictions and results
 - Option 2: Run on Local System
 Step 1: Clone Repository
-git clone https://github.com/your-username/customer-satisfaction.git
 cd customer-satisfaction
 Step 2: Install Dependencies
 pip install -r requirements.txt
